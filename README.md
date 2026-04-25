@@ -1,2 +1,2 @@
 # bazy-danych-projekt-apteka
-Apteka - dystrybucja i sprzedaż leków
+Apteka - sprzedaż leków
